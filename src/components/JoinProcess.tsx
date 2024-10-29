@@ -26,7 +26,7 @@ function ProcessStep({ number, text, isLast }: ProcessStepProps) {
 export function JoinProcess() {
   const steps = [
     "在线洽谈",
-    "签署电子合约",
+    "签署电子合约",ss c
     "加盟商准备抖音直播带货达人条件",
     "加盟商从精选联盟的雪莲花开抖店中，选择商品挂载到橱窗，进行直播带货",
     "三体平台初始化无人直播间和系统",
